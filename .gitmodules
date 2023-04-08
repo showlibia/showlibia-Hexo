@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-tranquility"]
+	path = themes/hexo-theme-tranquility
+	url = git@github.com:showlibia/hexo-theme-tranquility.git
